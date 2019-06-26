@@ -37,6 +37,8 @@ namespace COMP123_S2019_Lesson8C
 
             NameTextBox.Text = string.Empty;
             AgeTextBox.Text = string.Empty;
+
+            //Test comment
         }
 
         /// <summary>
